@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/youTubeCourses/static/css/main.0fe66eb7.css",
+    "main.js": "/youTubeCourses/static/js/main.9ff42588.js",
+    "index.html": "/youTubeCourses/index.html",
+    "main.0fe66eb7.css.map": "/youTubeCourses/static/css/main.0fe66eb7.css.map",
+    "main.9ff42588.js.map": "/youTubeCourses/static/js/main.9ff42588.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fe66eb7.css",
+    "static/js/main.9ff42588.js"
+  ]
+}
